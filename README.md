@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2020ashish&label=Profile%20views&color=0e75b6&style=flat" alt="2020ashish" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2020ashish" alt="2020ashish" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/2020ashish](https://github.com/2020ashish)
